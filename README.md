@@ -1,4 +1,4 @@
-# Future_UX_02
+# FUTURE_UX_02
 Task 2 – Salon Booking App 
 
 This project is part of my UI/UX internship at Future Interns.
