@@ -25,4 +25,4 @@ confirmation screen
 🎨 Figma Prototype – Task 2
 
 Interactive UI for Salon Booking App:  
-🔗 https://www.figma.com/make/IbH014iHO6MXysOhzFVMrR/Appointment-Booking-App?t=OGVFKjE2udRyF3Ej-1
+🔗https://www.figma.com/make/IbH014iHO6MXysOhzFVMrR/Appointment-Booking-App?fullscreen=1&t=gxuWTReHMl4PvzD2-1
