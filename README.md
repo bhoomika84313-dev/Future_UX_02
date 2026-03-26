@@ -1,16 +1,5 @@
 # FUTURE_UX_02
-Task 2 – Salon Booking App 
-
-This project is part of my UI/UX internship at Future Interns.
-
-## 🚀 Overview
-Designed a clean and user-friendly Salon Booking App interface that allows users to explore services and book appointments بسهولة.
-
-## 🎯 Features
-- Simple login screen with OTP
-- Home screen with service categories
-- Service details with pricing & duration
-- Easy booking flow
+Task 2 – Salon Booking App
 
  📱 Screens
 
