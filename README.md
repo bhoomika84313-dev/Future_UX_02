@@ -21,3 +21,8 @@ Task 2 – Salon Booking App
 
 confirmation screen 
 ![confirmation screen ](https://github.com/user-attachments/assets/9144b9a1-21ec-4dd7-9566-3e2799476ff6)
+
+🎨 Figma Prototype – Task 2
+
+Interactive UI for Salon Booking App:  
+🔗 https://www.figma.com/make/IbH014iHO6MXysOhzFVMrR
